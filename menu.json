@@ -1,0 +1,18 @@
+[{
+    "name": "Samsung",
+    "image": "images/1.jpg",
+    "price": "2460"
+  },{
+    "name": "Oppo ",
+    "image": "images/2.jpg",
+    "price": "2300"
+  },{
+    "name": "Techno ",
+    "image": "images/3.jpg",
+    "price": "3200"
+  },{
+    "name": "Apple",
+    "image": "images/4.jpg",
+    "price": "3500"
+  }
+]
